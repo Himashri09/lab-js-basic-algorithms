@@ -1,3 +1,4 @@
+console.log("I'm ready!");
 // Iteration 1: Names and Input
 let hacker1 = "John Snow";
 console.log(hacker1);
